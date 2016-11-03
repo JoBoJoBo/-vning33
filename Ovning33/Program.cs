@@ -17,7 +17,8 @@ namespace Ovning33
         }
         public static void PrintStuff()
         {
-            Console.WriteLine("Funkar denna metod tro?");
+           
+            Console.WriteLine("Funkar denna metod tro?);
         }
 
     }
